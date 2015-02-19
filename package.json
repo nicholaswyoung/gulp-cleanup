@@ -1,0 +1,27 @@
+{
+  "name": "gulp-cleanup",
+  "version": "1.0.0",
+  "description": "Cleanup after gulp-rev.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/originalmachine/gulp-cleanup.git"
+  },
+  "keywords": [
+    "gulp",
+    "rev",
+    "cleanup"
+  ],
+  "author": "Nicholas Young <nicholas@nicholaswyoung.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/originalmachine/gulp-cleanup/issues"
+  },
+  "homepage": "https://github.com/originalmachine/gulp-cleanup",
+  "dependencies": {
+    "through2": "^0.6.3"
+  }
+}
